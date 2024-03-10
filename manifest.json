@@ -1,16 +1,16 @@
 {
   "mod_internet_verbindung": 2,
   "mod_internet_semesterprogramm": 3.61,
-  "mod_internet_home": 3.82,
+  "mod_internet_home": 3.83,
   "mod_internet_kontakt": 3.02,
   "mod_intranet_chargierkalender": 2.96,
   "mod_intranet_reservierungen": 2.82,
-  "mod_intranet_rundbrief": 3.01,
+  "mod_intranet_rundbrief": 3.02,
   "mod_intranet_news": 2.95,
-  "mod_intranet_download": 3.1,
+  "mod_intranet_download": 3.2,
   "mod_intranet_export": 2.41,
   "mod_intranet_zipfelranking": 2.43,
   "mod_intranet_log": 1.2,
   "mod_internet_vhaus": 2,
-  "engine": 12.07
+  "engine": 12.09
 }
